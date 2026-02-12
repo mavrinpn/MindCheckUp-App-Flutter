@@ -94,4 +94,4 @@ MindCheck - приложение для систем iOS и Android, напис�
 - Через Firestore реализована полная синхронизация учетной записи пользователя между разными устройствами.
 
 
-My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/pavel-mavrin-developer/)
+My LinkedIn: [Pavel Mavrin](https://www.linkedin.com/in/mavrinpn/)
